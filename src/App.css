@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #201f1f;
+}
+header{
+    background: url('./img/banner-bg.png');
+}
+.sec2{
+    padding-bottom: 3rem;
+    background: url('./img/footer-bg.png');
+}
+.projectimg{
+   
+    background: linear-gradient(278deg , rgb(137, 137, 242) 10%, rgb(181, 65, 189) 90%); 
+
+} 
+.projectimg:hover{
+    /* height: 100%; */
+}
+footer{
+    background: url('./img/footer-bg.png');
+
+}
+
+
+
+
